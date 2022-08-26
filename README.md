@@ -4,7 +4,7 @@
 # Resources
 
 * https://devdocs.io/
-* codepen.io
+* http://codepen.io
 * heroku.com
 * github.com
 * https://startbootstrap.com/theme/resume
